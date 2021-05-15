@@ -17,7 +17,7 @@ _Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images.
 	
 	
 ## Demo:
-A working demo can be seen via following URL - https://github.com/Venckus/toai_10mk4_b/blob/main/breast_cancer_fastai_v2.ipynb
+A working demo can be seen via following URL - https://github.com/Venckus/toai_10mk4_b/blob/main/breast_cancer_fastai_v1_unet.ipynb
 
 ## Installation:
 Pip:
@@ -38,5 +38,5 @@ conda install --file requirements.txt
 - [Fastai](https://github.com/fastai/fastai) - fastai simplifies training fast and accurate neural nets using modern best practices
 
 ## Meta:
-- Author - Šarūnas Venckus ([email](mailto:), [LinkedIn](linkedin.com/in/sarunas-venckus-67831884));
+- Author - Šarūnas Venckus ([email](mailto:), [LinkedIn](https://linkedin.com/in/sarunas-venckus-67831884));
 - License - none;
