@@ -59,5 +59,5 @@ conda install --file requirements.txt
 - [Fastai](https://github.com/fastai/fastai) - fastai simplifies training fast and accurate neural nets using modern best practices
 
 ## Meta:
-- Author - Šarūnas Venckus ([email](mailto:), [LinkedIn](linkedin.com/in/sarunas-venckus-67831884));
+- Author - Šarūnas Venckus ([email](mailto:), [LinkedIn](https://linkedin.com/in/sarunas-venckus-67831884));
 - License - none;
