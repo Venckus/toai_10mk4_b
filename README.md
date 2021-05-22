@@ -17,7 +17,28 @@ _Al-Dhabyani W, Gomaa M, Khaled H, Fahmy A. Dataset of breast ultrasound images.
 	
 	
 ## Demo:
-A working demo can be seen via following URL - https://github.com/Venckus/toai_10mk4_b/blob/main/breast_cancer_fastai_v2.ipynb
+A working demo can be seen via following URL - https://github.com/Venckus/toai_10mk4_b/blob/main/fastai_v1_unet.ipynb
+
+### Results
+The best results accieved using pretrained, imagenet normalized model with Resnet34 architecture. The metrics:
+<table>
+  <tr>
+    <td>Training loss:</td>
+    <td>0.174874</td>
+  </tr>
+  <tr>
+    <td>Validation loss:</td>
+    <td>0.156018</td>
+  </tr>
+  <tr>
+    <td>Dice:</td>
+    <td>0.988534</td>
+  </tr>
+  <tr>
+    <td>Segmentation accuracy:</td>
+    <td>0.948120</td>
+  </tr>
+</table>
 
 ## Installation:
 Pip:
